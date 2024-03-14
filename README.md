@@ -1,7 +1,7 @@
 # Analise do codigo Javas Script
 # codigo 1
 
-```Este código HTML contém um script JavaScript embutido que define duas funções e um link que chama uma dessas funções quando clicado.```
+Este código HTML contém um script JavaScript embutido que define duas funções e um link que chama uma dessas funções quando clicado.
 
 A função ```timeMsg()``` é chamada quando o link é clicado. Ela define um temporizador que aguarda três segundos (3000 milissegundos) antes de chamar a função alertMsg().
 
