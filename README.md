@@ -1,5 +1,4 @@
-# an-lise.codigo_1_web
-
+# Analise do codigo Javas Script
 # codigo 1
 
 Este código HTML contém um script JavaScript embutido que define duas funções e um link que chama uma dessas funções quando clicado.
@@ -9,6 +8,7 @@ A função timeMsg() é chamada quando o link é clicado. Ela define um temporiz
 A função alertMsg() é chamada após três segundos, como definido pela função timeMsg(). Ela escreve o texto "Terminal Root" no documento usando document.write().
 
 O link <a> tem um evento onClick que dispara a função timeMsg() quando clicado. Isso faz com que a mensagem "Terminal Root" só apareça após três segundos de espera.
+![capa do projeto](img/Captura.png)
 
 # codigo  2 
 
@@ -22,6 +22,7 @@ document.write(str);
 
 Escreve o valor atual da variável str no documento HTML, resultando em "Terminal Linux" sendo exibido na página.
 
+![capa do projeto](img/captura2.png)
 
 
 
