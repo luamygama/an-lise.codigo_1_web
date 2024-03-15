@@ -2,7 +2,7 @@
 # Veja os seguintes codicos e seus funcionamentos!!! #
 
 
-### ``Codigo 1``
+## Codigo 1
 
 
 Este código HTML contém um script JavaScript embutido que define duas funções e um link que chama uma dessas funções quando clicado.
@@ -14,7 +14,7 @@ A função ```alertMsg()``` é chamada após três segundos, como definido pela 
 O elemento ```&lt;a&gt;``` tem um evento onClick que dispara a função timeMsg() quando clicado. Isso faz com que a mensagem "Terminal Root" só apareça após três segundos de espera.```
 ![capa do projeto](img/Captura.png)
 
-### ``codigo  2``
+## codigo  2
 
  ```var str = 'Terminal Root';```
 
