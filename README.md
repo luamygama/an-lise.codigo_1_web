@@ -1,4 +1,4 @@
-# Analise do codigo Javas Script 🥰
+# 🚀 Analise do codigo Javas Script 🚀
 ## Veja os seguintes codicos e seus funcionamentos 💻 #
 
 
